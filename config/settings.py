@@ -43,6 +43,7 @@ INSTALLED_APPS = [
 
     # Startapp
     'accounts',
+    'pages',
 ]
 
 MIDDLEWARE = [
